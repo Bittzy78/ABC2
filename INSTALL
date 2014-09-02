@@ -1,0 +1,9 @@
+Building Abundance
+
+See doc/readme-qt.rst for instructions on building Abundance QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Abundance.
+
+See doc/build-*.txt for instructions on building Abundanced,
+the intended-for-services, no-graphical-interface, reference
+implementation of Abundance.
